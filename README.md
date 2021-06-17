@@ -1,6 +1,5 @@
-# JAVA-PAISES-API
-APi de java que eixbe paises, seus estados além de algumas cidades.
-
+# JAVA-API
+API Rest de consulta de cidades do Brasil
 
 
 
